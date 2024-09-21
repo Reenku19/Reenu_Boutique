@@ -12,6 +12,7 @@ select designs according to their type and budget. It asks admin to add in detai
 customer. The details will be immediately view able once added to the program.
 
 
+
 SOFTWARE REQUIREMENTS
 
 Front End : HTML, JSP, CSS (Cascading Style Sheet). 
@@ -27,12 +28,17 @@ Operating System : Windows 10.
 SERVER : Tomcat 9.0 Sever.
 
 
+
 HARDWARE REQUIREMENTS
 
 Processor : i3 INTEL
+
 Memory : 1GB RAM
+
 Hard Disk :64GB
+
 Keyboard : 104 keys
+
 
 
 SOFTWARE’S USED
@@ -110,13 +116,18 @@ Runtime Enterprise Environment that conforms to JRE 1.1 or later.
 Software genre: Application server, Web server 
 Developer: Apache Software Foundation
 
+
+
 SNAPSHOTS
 
 ![image](https://github.com/user-attachments/assets/9205f605-0106-4097-a28e-afe7c8b9580a)
 
+
 ![image](https://github.com/user-attachments/assets/a5fbc16c-8f45-4db2-94d9-0dfba4a1c104)
 
+
 ![image](https://github.com/user-attachments/assets/f7e1baa0-efdf-4111-a511-4235a18333ea)
+
 
 ![image](https://github.com/user-attachments/assets/f961c574-6c20-45da-b39b-fdb66f1543a0)
 
