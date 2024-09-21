@@ -15,10 +15,15 @@ customer. The details will be immediately view able once added to the program.
 SOFTWARE REQUIREMENTS
 
 Front End : HTML, JSP, CSS (Cascading Style Sheet). 
+
 Middle Ware : JS (JavaScript), JSP (Java Server Paper). 
+
 Back End : My SQL 8.0
+
 IDE : Eclipse IDE (Integrated Development Environment).
+
 Operating System : Windows 10. 
+
 SERVER : Tomcat 9.0 Sever.
 
 
