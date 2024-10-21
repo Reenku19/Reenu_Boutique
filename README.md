@@ -1,9 +1,9 @@
-# Reenu_Boutique
+**Reenu_Boutique**
 
 Boutique Management System is a software application design to add or manage customer 
 information, keep their personal records, orders and delivery dates, etc.
 
-Problem definition
+**Problem definition**
 
 This project allows fashion designers to manage their customer details. The details include 
 contact information and measurements. This project would enable fashion designers to easily 
@@ -13,7 +13,7 @@ customer. The details will be immediately view able once added to the program.
 
 
 
-SOFTWARE REQUIREMENTS
+**SOFTWARE REQUIREMENTS**
 
 Front End : HTML, JSP, CSS (Cascading Style Sheet). 
 
@@ -29,7 +29,7 @@ SERVER : Tomcat 9.0 Sever.
 
 
 
-HARDWARE REQUIREMENTS
+**HARDWARE REQUIREMENTS**
 
 Processor : i3 INTEL
 
@@ -41,9 +41,9 @@ Keyboard : 104 keys
 
 
 
-SOFTWARE’S USED
+**SOFTWARE’S USED**
 
-HTML
+**HTML**
 
 Hypertext Markup Language (HTML) is the standard markup language for documents 
 designed to be displayed in a web browser. It can be assisted by technologies such as Cascading
@@ -55,7 +55,7 @@ HTML elements are the building blocks of HTML pages. With HTML constructs, image
 other objects such as interactive forms may be embedded into the rendered page. HTML 
 provides a means to create structured documents by denoting structural semantics. 
 
-JSP
+**JSP**
 
 Architecturally, JSP may be viewed as a high-level abstraction of Java servlets. JSPs are 
 translated into servlets at runtime, therefore JSP is a Servlet; each JSP servlet is cached and reused until the original JSP is modified.
@@ -74,7 +74,7 @@ The Web container creates JSP implicit objects like request, response, session, 
 configuration, and page, page Context, out and exception. JSP Engine creates these objects 
 during translation phase. 
 
-JAVA SCRIPT
+**JAVA SCRIPT**
 
 JavaScript often abbreviated as JS, is a programming language that conforms to 
 the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multiparadigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, 
@@ -95,20 +95,20 @@ with frameworks such as Electron and Cordova.
 Although there are similarities between JavaScript and Java, including language name, syntax, 
 and respective standard libraries, the two languages are distinct and differ greatly in design.
 
-MY SQL
+**MY SQL**
 
 SQL stands for Structured Query Language, and it is a programming language designed for 
 querying data from a database. MySQL is a relational database management system, which is a 
 completely different thing.
 
-ECLIPSE IDE
+**ECLIPSE IDE**
 
 Eclipse is an integrated development environment (IDE) used in computer programming. It 
 contains a base workspace and an extensible plug-in system for customizing the environment. It 
 was one of the first IDEs to run under GNU Class path and it runs without problems under Iced 
 Tea.
 
-TOMCAT
+**TOMCAT**
 
 Tomcat is an application server from the Apache Software Foundation that executes Java 
 servlets and renders Web pages that include Java Server Page coding. Tomcat requires a Java 
@@ -118,7 +118,7 @@ Developer: Apache Software Foundation
 
 
 
-SNAPSHOTS
+**SNAPSHOTS**
 
 ![image](https://github.com/user-attachments/assets/9205f605-0106-4097-a28e-afe7c8b9580a)
 
